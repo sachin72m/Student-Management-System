@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+ <!-- Define welcome files -->
+    <welcome-file-list>
+        <welcome-file>homepage.jsp</welcome-file>
+    </welcome-file-list>
+
+</web-app>
